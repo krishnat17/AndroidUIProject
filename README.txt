@@ -1,0 +1,1 @@
+Please remember to download (from the Play Store) and enable Google's Handwriting input keyboard when using condition code "Handwriting"
